@@ -8,10 +8,7 @@ PanoMMOcc is the first panoramic multimodal occupancy dataset for quadruped robo
 
 ## Demo
 
-<video width="1080" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
-
+<img src="assets/demo.gif" width="800">
 
 # Code and Dataset
 
